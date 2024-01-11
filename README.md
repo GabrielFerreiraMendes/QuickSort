@@ -1,7 +1,7 @@
 ## Algoritmo de ordenação Quick Sort
 Projeto desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
 
-## Funcionamento do Bubble Sort
+## Funcionamento do Quick Sort
 
 Quick Sort é um algoritmo eficiente de ordenação por divisão e conquista. Apesar de ser da mesma classe de complexidade do Merge Sort e do Heap Sort, o Quick Sort é na prática o mais veloz deles, pois suas constantes são menores. Contudo, é importante destacar de antemão que, em seu pior caso, o Quick Sort é O(n2)
 , enquanto que o Merge Sort e o Heap Sort garantem n∗logn
